@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I am Neha Yadav 
 
-<!--
-**s84850752-alt/s84850752-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BCA cyber security Student at K.R. Mangalam University
+- Currently learning Python, Linux and Git/GitHub
+- Interested in Cybersecurity and Software Development
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python, Bash |
+| Tools | Git, GitHub, VS Code, Linux |
+| Concepts | File Systems, REST APIs, Markdown |
+
+## Featured Projects
+- CSE103 Lab Repository
+- Developer Portfolio
+
+## Currently Working On
+- Python programming
+- Linux commands
+- GitHub projects
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/neha-yadav-1120423ab?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: s84850752@gmail.com
